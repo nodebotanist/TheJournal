@@ -5,6 +5,9 @@
   * [June 2017](the-logs/june-2017.md)
 * [Bus-Pirate Work](bus-pirate-work.md)
   * [ATMega328 Testing Peripheral](atmega328-testing-peripheral.md)
+    * [I2C Peripheral Functionality](atmega328-testing-peripheral/i2c-peripheral-functionality.md)
+      * I2C device specification
+      * Writing the firmware
   * npm module: bus-pirate
   * Bus Pirate Firmware Work
 * [Serverless Skateboards](serverless-skateboards.md)
