@@ -8,8 +8,8 @@
     * [I2C Peripheral Functionality](atmega328-testing-peripheral/i2c-peripheral-functionality.md)
       * [Writing the firmware](atmega328-testing-peripheral/i2c-peripheral-functionality/writing-the-firmware.md)
       * [I2C Device Spec](atmega328-testing-peripheral/i2c-peripheral-functionality/i2c-device-spec.md)
-  * npm module: bus-pirate
-  * Bus Pirate Firmware Work
+  * [npm module: bus-pirate](npm-module-bus-pirate.md)
+  * [Bus Pirate Firmware Work](bus-pirate-firmware-work.md)
   * [Bus Pirate Video Tutorials](bus-pirate-video-tutorials.md)
     * [Video 1: Unboxing and Setup](bus-pirate-video-tutorials/video-1-unboxing-and-setup.md)
     * Video 2: Getting to know your Bus Pirate
