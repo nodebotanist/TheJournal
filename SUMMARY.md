@@ -14,6 +14,6 @@
   * v1
   * v2
 * [SX1509/4x4 LED Button Grid Project](sx15094x4-led-button-grid-project.md)
-  * Reverse Engineering it with the Bus Pirate
-  * Moving it to Node
+  * [Reverse Engineering it with the Bus Pirate](sx15094x4-led-button-grid-project/reverse-engineering-it-with-the-bus-pirate.md)
+  * [Moving it to Node](sx15094x4-led-button-grid-project/moving-it-to-node.md)
 
