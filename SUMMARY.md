@@ -16,4 +16,7 @@
 * [SX1509/4x4 LED Button Grid Project](sx15094x4-led-button-grid-project.md)
   * [Reverse Engineering it with the Bus Pirate](sx15094x4-led-button-grid-project/reverse-engineering-it-with-the-bus-pirate.md)
   * [Moving it to Node](sx15094x4-led-button-grid-project/moving-it-to-node.md)
+* [Reverse Engineering Projects](reverse-engineering-projects.md)
+  * [TCS34725 RGB Color Sensor](reverse-engineering-projects/tcs34725-rgb-color-sensor.md)
+  * [SX1509 GPIO Expander](reverse-engineering-projects/sx1509-gpio-expander.md)
 
