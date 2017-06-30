@@ -22,4 +22,5 @@
     * [J5 code](reverse-engineering-projects/tcs34725-rgb-color-sensor/j5-code.md)
     * [Pseudocode Translation](reverse-engineering-projects/tcs34725-rgb-color-sensor/pseudocode-translation.md)
   * [SX1509 GPIO Expander](reverse-engineering-projects/sx1509-gpio-expander.md)
+  * APDS-9960 Color/Gesture Sensor
 
