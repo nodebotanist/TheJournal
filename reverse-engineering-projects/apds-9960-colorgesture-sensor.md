@@ -6,5 +6,11 @@
 
 [LyzaDanger did some work with the gesture sensor](https://github.com/lyzadanger/apds9960)
 
+### Getting Started via the Bus Pirate
+
+\(Thinking of using this for a tutorial video\)
+
+
+
 
 
