@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [The Logs](the-logs.md)
   * [June 2017](the-logs/june-2017.md)
+  * [July 2017](the-logs/july-2017.md)
 * [Bus-Pirate Work](bus-pirate-work.md)
   * [ATMega328 Testing Peripheral](atmega328-testing-peripheral.md)
     * [I2C Peripheral Functionality](atmega328-testing-peripheral/i2c-peripheral-functionality.md)
@@ -21,5 +22,5 @@
     * [J5 code](reverse-engineering-projects/tcs34725-rgb-color-sensor/j5-code.md)
     * [Pseudocode Translation](reverse-engineering-projects/tcs34725-rgb-color-sensor/pseudocode-translation.md)
   * [SX1509 GPIO Expander](reverse-engineering-projects/sx1509-gpio-expander.md)
-  * APDS-9960 Color/Gesture Sensor
+  * [APDS-9960 Color/Gesture Sensor](reverse-engineering-projects/apds-9960-colorgesture-sensor.md)
 
