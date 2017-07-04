@@ -24,4 +24,5 @@
   * [SX1509 GPIO Expander](reverse-engineering-projects/sx1509-gpio-expander.md)
   * [APDS-9960 Color/Gesture Sensor](reverse-engineering-projects/apds-9960-colorgesture-sensor.md)
     * [Pseudocode Translation](reverse-engineering-projects/apds-9960-colorgesture-sensor/pseudocode-translation.md)
+  * [16x32 RGB LED grid](reverse-engineering-projects/16x32-rgb-led-grid.md)
 
