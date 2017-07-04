@@ -38,6 +38,11 @@ Set default ambient light and proximity registers:
 * 0x9D to 0 \(POFFSET\_UR\)
 * 0x9E to 0 \(POFFSET\_DL\)
 * 0x8D to 0x60 \(CONFIG1\)
-* 
+* call to `setLedDrive()` with default value \(0x00\)
+
+* call to `setProximityValue()` w/default value \(0x02\)
+
+* call to `setAmbientLightGain()` w/default value \(0x01\)
+
 
 
