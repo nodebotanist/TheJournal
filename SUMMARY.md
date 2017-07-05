@@ -26,4 +26,6 @@
     * [Pseudocode Translation](reverse-engineering-projects/apds-9960-colorgesture-sensor/pseudocode-translation.md)
   * [16x32 RGB LED grid](reverse-engineering-projects/16x32-rgb-led-grid.md)
   * [Colorduino](reverse-engineering-projects/colorduino.md)
+* [APA102 RGB LEDs](apa102-rgb-leds.md)
+  * [Bus-Pirate Testing](bus-pirate-testing.md)
 
