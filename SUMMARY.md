@@ -28,4 +28,5 @@
   * [Colorduino](reverse-engineering-projects/colorduino.md)
 * [APA102 RGB LEDs](apa102-rgb-leds.md)
   * [Bus-Pirate Testing](bus-pirate-testing.md)
+  * [Johnny-Five Module](johnny-five-module.md)
 
