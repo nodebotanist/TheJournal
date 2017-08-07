@@ -4,6 +4,7 @@
 * [The Logs](the-logs.md)
   * [June 2017](the-logs/june-2017.md)
   * [July 2017](the-logs/july-2017.md)
+  * [August 2017](the-logs/august-2017.md)
 * [Bus-Pirate Work](bus-pirate-work.md)
   * [ATMega328 Testing Peripheral](atmega328-testing-peripheral.md)
     * [I2C Peripheral Functionality](atmega328-testing-peripheral/i2c-peripheral-functionality.md)
